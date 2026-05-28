@@ -1,0 +1,46 @@
+body {
+background-color: #fcfaf2;
+text-align: center;
+margin-left: 250px;
+margin-right: 250px;
+font-family: "courier new";
+}
+
+ul {
+color: #525049;
+}
+
+p {
+color: #525049;
+}
+
+h1 {
+background-color: #525049;
+color: #fcfaf2;
+border-radius: 75px;
+}
+
+h3 {
+color: #525049;
+}
+
+.did-you-know {
+text-align: center;
+background-color: #525049;
+color: #fcfaf2;
+border-radius: 25px;
+font-style: italic;
+padding: 15px;
+}
+
+a {
+background-color: #525049;
+color: #fcfaf2;
+border-radius: 75px;
+padding: 15px;
+}
+
+img {
+border-radius: 25px;
+border: solid #525049; 10px;
+}
